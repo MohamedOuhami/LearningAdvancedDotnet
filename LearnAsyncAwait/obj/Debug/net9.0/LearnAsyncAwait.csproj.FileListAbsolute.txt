@@ -1,0 +1,14 @@
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/bin/Debug/net9.0/LearnAsyncAwait
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/bin/Debug/net9.0/LearnAsyncAwait.deps.json
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/bin/Debug/net9.0/LearnAsyncAwait.runtimeconfig.json
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/bin/Debug/net9.0/LearnAsyncAwait.dll
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/bin/Debug/net9.0/LearnAsyncAwait.pdb
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/obj/Debug/net9.0/LearnAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/obj/Debug/net9.0/LearnAsyncAwait.AssemblyInfoInputs.cache
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/obj/Debug/net9.0/LearnAsyncAwait.AssemblyInfo.cs
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/obj/Debug/net9.0/LearnAsyncAwait.csproj.CoreCompileInputs.cache
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/obj/Debug/net9.0/LearnAsyncAwait.dll
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/obj/Debug/net9.0/refint/LearnAsyncAwait.dll
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/obj/Debug/net9.0/LearnAsyncAwait.pdb
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/obj/Debug/net9.0/LearnAsyncAwait.genruntimeconfig.cache
+/home/void/Documents/Learning/learningDotnet/LearnAsyncAwait/obj/Debug/net9.0/ref/LearnAsyncAwait.dll
